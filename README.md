@@ -1,8 +1,8 @@
-[
-<img width="868" alt="Screen Shot 2021-06-27 at 9 33 28 PM" src="https://user-images.githubusercontent.com/80833988/123580839-73eae080-d78f-11eb-8c9a-6ed9078506f0.png">
-](url)
-
 # Machine Learning Trading Bot
+
+[
+<img width="793" alt="Screen Shot 2021-06-27 at 9 33 58 PM" src="https://user-images.githubusercontent.com/80833988/123581019-e1970c80-d78f-11eb-9bd2-8231bc04da79.png">
+](url)
 
 
 📌 Challenge 14
@@ -12,18 +12,15 @@
 
 
 ## Table of content
-- [Overview of the project and project goals](https://github.com/nataliaburrey/Neural_Network#overview-of-the-project-and-project-goals) 
-- [Software version control](https://github.com/nataliaburrey/Neural_Network#software-version-control)
-    - [Libraries](https://github.com/nataliaburrey/Neural_Network#libraries)
-    - [Work with GitHub](https://github.com/nataliaburrey/Neural_Network#work-with-github)
-    - [How to install](https://github.com/nataliaburrey/Neural_Network#how-to-install)
-- [Project findings](https://github.com/nataliaburrey/Neural_Network#project-findings)
-- [Helps recruiters](https://github.com/nataliaburrey/Neural_Network#helps-recruiters)
-- [License](https://github.com/nataliaburrey/Neural_Network#license)
+- [Overview of the project and project goals](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#overview-of-the-project-and-project-goals) 
+- [Software version control](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#software-version-control)
+    - [Libraries](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#libraries)
+    - [Work with GitHub](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#work-with-github)
+    - [How to install](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#how-to-install)
+- [Project findings](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#project-findings)
+- [Helps recruiters](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#helps-recruiters)
+- [License](https://github.com/nataliaburrey/Machine_Learning_Trading_Bot/blob/main/README.md#license)
 
-[
-<img width="793" alt="Screen Shot 2021-06-27 at 9 33 58 PM" src="https://user-images.githubusercontent.com/80833988/123581019-e1970c80-d78f-11eb-9bd2-8231bc04da79.png">
-](url)
 
 
 ## Overview of the project and project goals
@@ -93,7 +90,7 @@ now you can find repo on your desktop
 ## Project findings
 
 [
-<img width="1273" alt="Screen Shot 2021-06-27 at 10 01 31 PM" src="https://user-images.githubusercontent.com/80833988/123582936-8ff08100-d793-11eb-9626-cc47fe596878.png">
+<img width="877" alt="Screen Shot 2021-06-27 at 10 16 31 PM" src="https://user-images.githubusercontent.com/80833988/123583918-56207a00-d795-11eb-9ead-509bd9926d20.png">
 ](url)
 
 [
