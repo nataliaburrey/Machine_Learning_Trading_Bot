@@ -97,8 +97,7 @@ now you can find repo on your desktop
 <img width="843" alt="Screen Shot 2021-06-27 at 10 02 05 PM" src="https://user-images.githubusercontent.com/80833988/123582798-51f35d00-d793-11eb-9866-c3ee04a6a828.png">
 ](url)
 
-
-Its always a very complicated question to make a desision which strategy is to empliment. In this case first model seems like predicting an actual trend is better. In this scenation we see that first model project results closer to a actual ones, but classification report shows that the first one  has slitely better quality of prediction. It must very vell be likely, that first model is simply follows the first one, to make a decision I would further run one more version of the model to make sure my prediction is correct.
+Its always a very complicated question to make a decision which strategy is to implement. In this case first model seems like predicting an actual trend is better. In this section we see that first model project results closer to a actual ones, but classification report shows that the first one has slightly better quality of prediction. It must very well be likely, that first model is simply follows the first one, to make a decision I would further run one more version of the model to make sure my prediction is correct.
 
 ## Helps recruiters
 
